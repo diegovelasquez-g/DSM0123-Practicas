@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Suma de dos números</string>
+    <string name="textPlaceHolder1">Ingrese el primer número</string>
+    <string name="textPlaceHolder2">Ingrese el segundo número</string>
+    <string name="buttonText">Calcular</string>
+    <string name="result">Resultado: </string>
+
+</resources>
